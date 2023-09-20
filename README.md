@@ -1,3 +1,5 @@
+<img src="https://www.inzata.com/wp-content/uploads/2023/05/Inzata-Data-Platform-anim-min-2.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm Kanika Kamra</h1>
 <h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
 
